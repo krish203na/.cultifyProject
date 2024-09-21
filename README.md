@@ -53,22 +53,20 @@ To set up the Ecultify Assessment Project locally, follow these steps:
    Open your terminal and run the following command:
    ```bash
    git clone https://github.com/yourusername/ecultify-assessment.git
-Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
-bash
-Copy code
+```bash
 cd ecultify-assessment
-Install Dependencies: Ensure you have Node.js installed. Then, run:
+3. **Install Dependencies: Ensure you have Node.js installed. Then, run:**
 
-bash
-Copy code
+```bash
 npm install
-Start the Development Server: After the dependencies are installed, start the development server with:
 
-bash
-Copy code
+4. **Start the Development Server: After the dependencies are installed, start the development server with:**
+
+```bash
 npm start
-View the Application: Open your web browser and navigate to http://localhost:3000 to view the application in action.
+5. **View the Application:** Open your web browser and navigate to http://localhost:3000 to view the application in action.
 
 Contributing
 Contributions to the Ecultify Assessment Project are welcome! If you have suggestions for enhancements or new features, please feel free to open an issue or submit a pull request. When contributing, please adhere to the following guidelines:
