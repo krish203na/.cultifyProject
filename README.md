@@ -56,16 +56,16 @@ To set up the Ecultify Assessment Project locally, follow these steps:
 2. **Navigate to the Project Directory:**
 
     ```bash
-cd ecultify-assessment
+    cd ecultify-assessment
 3. **Install Dependencies: Ensure you have Node.js installed. Then, run:**
 
     ```bash
-npm install
+    npm install
 
 4. **Start the Development Server:** After the dependencies are installed, start the development server with:
 
     ```bash
-npm start
+    npm start
 5. **View the Application:** Open your web browser and navigate to http://localhost:3000 to view the application in action.
 
 ## Contributing
